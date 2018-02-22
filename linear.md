@@ -1,16 +1,10 @@
 1.  Using the sliders, change the values of *m* and *c* so that the red line (see Figure 7.12) goes through points *A* and *B*.
 
-    ![Described image](https://ci6.googleusercontent.com/proxy/uV8R-sG8j9GVrljyzoJHwQ-qXF2VNvPpGy7vSs-InAvAiognjQH-BZrocAaLXZ8zc7f2bSr_YFBuE3hHliVfpCtJbJnQ5O39qTt6oJgHvxqhF49XrlpP2JgHIFcNLU8eaKeHaGQfwjlfhTpScePowIC8QwAsrGQYGJSXW0XBHCNHc2U0m70Sig=s0-d-e1-ft#https://learn2.open.ac.uk/pluginfile.php/2080090/mod_oucontent/oucontent/706600/a6e8e9df/34be3536/me620_u7_f12.png)
-
-    **Figure 7.12** Showing red line in 'task7.11ggb' file
-
-    [Long description](https://learn2.open.ac.uk/mod/oucontent/view.php?id=1092147&extra=longdesc_idp461574640&clicked=1)
-
 2.  Now consider a new equation, *y* = 2*x* + 3.  Move points *A* and *B *to two new positions *that you think will lie on this line*.
 
     Next, type *y* = 2*x* + 3 into the Input box at the bottom of the screen and check if your conjecture was correct.
 
-3.  When you are ready to move on to the next example, use the yellow 'undo' arrow to remove the line and then do the same for each of the equations below. (Note: for each example, be sure to place the points *A* and *B before* typing in the equation.)
+3.  When you are ready to move on to the next example, do the same for each of the equations below. (Note: for each example, be sure to place the points *A* and *B before* typing in the equation.)
 
     -   *y* = *x*/2 + 1
     -   *y* = 3*x* -- 5
