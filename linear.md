@@ -1,8 +1,8 @@
-1.  Using the sliders, change the values of *m* and *c* so that the red line (see Figure 7.12) goes through points *A* and *B*.
+1.  Using the sliders, change the values of *m* and *c* so that the red line (see Figure 7.12) goes through points *A* and *B*. Write down the values in your jotter.
 
-2.  Now consider a new equation, *y* = 2*x* + 3.  Move points *A* and *B* to two new positions *that you think will lie on this line*.
+2.  Now consider a new equation, *y* = 2*x* + 3.  Move points *A* and *B* to two new positions *that you think will lie on this line*. Write down your guesses in your jotter.
 
-    Next, type *y* = 2*x* + 3 into the Input box at the bottom of the screen and check if your conjecture was correct.
+    Next, type *y* = 2*x* + 3 into the Input box at the bottom of the screen and check if your conjecture was correct. Record whether you guessed correctly, and if not, write down two pairs of coordinates that do lie on the line.
 
 3.  When you are ready to move on to the next example, do the same for each of the equations below. (Note: for each example, be sure to place the points *A* and *B before* typing in the equation.)
 
