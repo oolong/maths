@@ -13,3 +13,13 @@
     -   and so on (i.e. make up some of your own).
 
     You may wish to start challenging yourself by placing both of the points *A* and *B* in a different quadrant of the graph (for example, where the *x*-coordinate is negative and the *y*-coordinate is positive) or by placing the two points in quadrants different from each other.
+
+
+4.  Go back to the front page of GeoGebra and create the same general family of linear graphs with the equation *y* = *mx* + *c*, along with two separate sliders for *m* and *c*.
+5.  Use your completed linear graph to explore the following questions, and record your findings in your jotter. Under what conditions will your linear graph:
+    -   a. be horizontal?
+    -   b. be horizontal and lie below the *x*-axis?
+    -   c. pass through the origin?
+    -   d. pass through the origin, running from top left to bottom right?
+    -   e. form an isosceles right-angled triangle with the two axes?
+6.  Now try to make up some more questions like these, and explore them for yourself.
