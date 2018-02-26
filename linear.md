@@ -2,13 +2,13 @@
 
 2.  Now consider a new equation, *y* = 2*x* + 3.  Move points *A* and *B* to two new positions *that you think will lie on this line*. Write down your guesses in your jotter.
 
-    Next, type *y* = 2*x* + 3 into the Input box at the bottom of the screen and check if your conjecture was correct. Record whether you guessed correctly, and if not, write down two pairs of coordinates that do lie on the line.
+    Next, set the sliders so that it shows the equation *y* = 2*x* + 3 and check if your conjecture was correct. Record whether you guessed correctly, and if not, write down two pairs of coordinates that do lie on the line.
 
 3.  When you are ready to move on to the next example, do the same for each of the equations below. (Note: for each example, be sure to place the points *A* and *B before* typing in the equation.)
 
     -   *y* = *x*/2 + 1
-    -   *y* = 3*x* - 5
-    -   3*x* + 4*y* = 12
+    -   *y* = 3*x* - 2
+    -   3*x* + 4*y* = -12
     -   5*x* - 2*y* = 5
     -   and so on (i.e. make up some of your own).
 
