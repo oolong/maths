@@ -2,7 +2,7 @@
 
 Open the graphing calculator at https://www.geogebra.org/graphing
 
-1. Plot the graph of *y=x*<sup>2</sup> by typing *y*=2*x*^2 into the box on the left, where it says 'Input', and pressing Enter.
+1. Plot the graph of *y=2x*<sup>2</sup> by typing *y*=2*x*^2 into the box on the left, where it says 'Input', and pressing Enter.
 1. Copy this graph into your jotter, complete with the axes, in the range -2 ≤ *x* ≤ 2 (that is, between the lines *x*=-2 and *x*=2) and label with the equation of the curve (*y=x*<sup>2</sup>).
 1. Repeat for *y*=*x*<sup>2</sup>, and copy onto the same set of axes in your jotter. Then do the same for *y*=0*x*<sup>2</sup>, *y*=-*x*<sup>2</sup> and *y*=-2*x*<sup>2</sup>.
 
